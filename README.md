@@ -3,40 +3,63 @@ A MERN Stack Netflix clone, with some improvement in styles and functionality.
 
 # X-Netflix
 X-Netflix is a streaming platform based on Netflix UI: built with ReactJS in frontend and nodeJS in backend.
+ </samp>
+  </h2>
 
-## Built with
+<br>
 
-  <b>FrontEnd:</b> React.JS, Redux Library, Material UI, CSS
-  <b>Backend: </b> Node.JS, Express.JS, Passportjs
-  <b>Database:</b>MongoDB, Mongoose
-</ul>
+<p align="center">
+  <a href="#preview">Preview</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#features">Features</a> •
+  <a href="#todo-list">Todo list</a> •
+  <a href="#contribute">Contribute</a> •
+  <a href="#image-copyright-claims">Image Copyright Claims</a> 
+</p>
 
-## UI
+<br>
 
-### Home
+# Preview
 
-![Home](screenshots/browse.png)
+<p align="center">
+  <img src="img/image3.PNG"
+     alt="Netflix Landing Page" >
+</p>
 
-### Movie Page
+<p align="center">
+  <img src="img/image1.PNG"
+     alt="Netflix Home Page" >
+</p>
+<p align="center">
+  <img src="img/image2.PNG"
+     alt="Netflix Movies slider" >
+</p>
 
-![Home](screenshots/movie.png)
+# Tech Stack
 
-### TV Show Page
+## BackEnd:
 
-![Home](screenshots/tvshow.png)
+-    [Node.js](https://nodejs.org)
+-    [Express.js](https://expressjs.com/)
 
-### Player
+## FrontEnd:
 
-![Home](screenshots/player.png)
+-    [React.js](https://reactjs.org/)
 
-### Sign in
+## DataBase:
 
-![Home](screenshots/connexion.png)
+-    [MongoDB](https://www.mongodb.com/)
 
-### Sign up
+# Usage
 
-![Home](screenshots/inscription.png)
+### Prerequisites:
 
+The project can be used along side with the server side or without it untill the next Readme update .
+
+-    Note: the authentification system isn't built yet, so the whole UI is reusable alone or with your BackEnd choice.
+
+-    Get a free API Key at [The Movie Database (TMDb)](www.themoviedb.org)
 
 <h2>Installation </h2>
 
