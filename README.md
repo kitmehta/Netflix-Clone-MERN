@@ -1,12 +1,17 @@
 # Netflix-Clone-MERN
-A MERN Stack Netflix clone, with some improvement in styles and functionality.
-
-# X-Netflix
-X-Netflix is a streaming platform based on Netflix UI: built with ReactJS in frontend and nodeJS in backend.
- </samp>
-  </h2>
-
 <br>
+<h1 align="center">
+  <img title="Netflix" src="https://fhsknightlife.com/wp-content/uploads/2020/04/uVASXqvMzyUrAPfSn9pMtxOC7s89ulzdDKBdtqCP.png" alt="NETFLIX Logo" width="400" />
+  <br>
+  Netflix Clone Built Using React.JS & Firebase
+</h1>
+
+<p><font size="3">
+  This is a clone of Netflix website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Back-end. It's not a replica, and it     doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced       like Netflix. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
+  <br><br> 
+  <strong><em>Take a look at the live version here:</em></strong> https://netflix-clone-5b398.web.app :octocat: :heart_eyes:
+</p>
+
 
 <p align="center">
   <a href="#preview">Preview</a> •
@@ -36,20 +41,28 @@ X-Netflix is a streaming platform based on Netflix UI: built with ReactJS in fro
      alt="Netflix Movies slider" >
 </p>
 
-# Tech Stack
 
-## BackEnd:
+# Technology Used
 
--    [Node.js](https://nodejs.org)
--    [Express.js](https://expressjs.com/)
-
-## FrontEnd:
-
--    [React.js](https://reactjs.org/)
-
-## DataBase:
-
--    [MongoDB](https://www.mongodb.com/)
+I have built this project using the following tools & techniques:
+- React.JS
+- React Router.
+- React Forms.
+- React Hooks.
+- useState.
+- useContext.
+- useEffect.
+- useHistory.
+- useState.
+- Compound Components.
+- JSX.
+- CSS Modules.
+- Firebase.
+- VSCode.
+- StyleLint.
+- EsLint.
+- Github Actions.
+- Github Pages.
 
 # Usage
 
@@ -61,15 +74,21 @@ The project can be used along side with the server side or without it untill the
 
 -    Get a free API Key at [The Movie Database (TMDb)](www.themoviedb.org)
 
-<h2>Installation </h2>
+# Author
 
-Use the package manager [npm](https://www.npmjs.com/) to install X-Netflix.
-Setup the project and install the packages by running: 
-```bash
-npm run setup
-```
- Run project with command
- 
-```bash
-npm run dev
-```
+👤 **Ahmed Tohamy**
+- Github: https://github.com/kitmehta
+- Linkedin: https://www.linkedin.com/in/ankit-mehta-b75a9a189/
+- Email: mehtaankit318@gmail.com
+
+# Show Your Support
+
+Give a ⭐️ if you like this project!
+
+# Acknowledgments
+
+Hat tip to everyone helped me to learn the techniques used in building this project.
+
+# License 
+
+MIT License.
